@@ -1,4 +1,5 @@
 // https://blog.logrocket.com/the-ultimate-guide-to-iframes/
+// use as https://cdn.jsdelivr.net/gh/cfab/wonder_manage_me@0.1/vmm.min.js
 function appOpen() {
   var appContainer = document.createElement("div");
   //appContainer.classList.add('app-container');
